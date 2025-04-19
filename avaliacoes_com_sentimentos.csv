@@ -1,0 +1,201 @@
+Data,Nome do Cliente,Avaliação,Comentário,Comentário Limpo,Sentimento,Classificação Sentimento
+2023-01-26,Mariana Barbosa,1,Péssimo atendimento,péssimo atendimento,0.0,Neutro
+2023-04-15,Juliana Souza,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2023-02-02,Ana Souza,4,Chegou no prazo,chegou prazo,0.0,Neutro
+2024-06-01,Mateus Silva,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2024-10-27,Juliana Costa,2,Produto não era como esperava,produto esperava,0.0,Neutro
+2024-08-26,Mariana Silva,4,Chegou no prazo,chegou prazo,0.0,Neutro
+2023-12-15,Mariana Almeida,4,Chegou no prazo,chegou prazo,0.0,Neutro
+2023-04-15,Carlos Costa,3,Mais ou menos,menos,0.0,Neutro
+2023-12-19,Mateus Marques,3,Mais ou menos,menos,0.0,Neutro
+2024-07-03,Carlos Costa,4,Gostei do produto,gostei produto,0.0,Neutro
+2023-10-28,Mateus Oliveira,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2024-12-22,Carlos Silva,2,Produto não era como esperava,produto esperava,0.0,Neutro
+2023-03-23,João Souza,3,Entrega razoável,entrega razoável,0.0,Neutro
+2024-04-09,Paulo Almeida,3,Produto ok,produto ok,0.5,Positivo
+2023-08-03,Mariana Souza,3,Regular,regular,0.0,Neutro
+2024-06-30,João Almeida,2,Faltou peças,faltou peças,0.0,Neutro
+2023-10-04,Juliana Barbosa,4,Recomendo,recomendo,0.0,Neutro
+2023-08-23,Ana Oliveira,1,Veio com defeito,veio defeito,0.0,Neutro
+2023-03-09,João Melo,3,Produto ok,produto ok,0.5,Positivo
+2024-11-02,Rafael Costa,2,Faltou peças,faltou peças,0.0,Neutro
+2023-09-29,Beatriz Barbosa,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2023-09-27,Mateus Costa,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2024-01-06,João Almeida,4,Produto de qualidade,produto qualidade,0.0,Neutro
+2023-04-04,Ana Souza,4,Chegou no prazo,chegou prazo,0.0,Neutro
+2024-11-27,Fernanda Melo,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2024-01-26,Mateus Lima,4,Produto de qualidade,produto qualidade,0.0,Neutro
+2024-07-20,Ana Souza,3,Regular,regular,0.0,Neutro
+2024-10-18,Paulo Souza,3,Produto ok,produto ok,0.5,Positivo
+2023-06-11,Rafael Silva,4,Recomendo,recomendo,0.0,Neutro
+2023-07-02,Juliana Souza,5,Super recomendo,super recomendo,0.3333333333333333,Positivo
+2024-09-15,João Almeida,5,Super recomendo,super recomendo,0.3333333333333333,Positivo
+2024-07-06,Juliana Silva,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2024-05-15,Ana Souza,3,Produto ok,produto ok,0.5,Positivo
+2023-09-03,Ana Barbosa,3,Regular,regular,0.0,Neutro
+2023-03-29,Rafael Souza,1,Experiência horrível,experiência horrível,0.0,Neutro
+2023-05-12,Rafael Pereira,2,Produto não era como esperava,produto esperava,0.0,Neutro
+2024-06-24,Mateus Costa,3,Pode melhorar,pode melhorar,0.0,Neutro
+2024-12-07,João Marques,5,Atendimento incrível,atendimento incrível,0.0,Neutro
+2024-03-24,Juliana Lima,3,Mais ou menos,menos,0.0,Neutro
+2023-08-19,Carlos Oliveira,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2024-07-21,João Melo,5,Amei o produto,amei produto,0.0,Neutro
+2023-03-14,Ana Barbosa,1,Produto chegou quebrado,produto chegou quebrado,0.0,Neutro
+2023-12-05,Carlos Pereira,1,Péssimo atendimento,péssimo atendimento,0.0,Neutro
+2024-11-16,Rafael Barbosa,3,Regular,regular,0.0,Neutro
+2024-08-07,Mateus Lima,2,Produto não era como esperava,produto esperava,0.0,Neutro
+2024-02-21,João Souza,4,Gostei do produto,gostei produto,0.0,Neutro
+2023-12-29,Fernanda Costa,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-11-20,Carlos Silva,1,Veio com defeito,veio defeito,0.0,Neutro
+2023-04-22,João Barbosa,3,Pode melhorar,pode melhorar,0.0,Neutro
+2024-04-04,Beatriz Costa,5,Amei o produto,amei produto,0.0,Neutro
+2024-04-18,João Souza,3,Entrega razoável,entrega razoável,0.0,Neutro
+2023-04-11,Ana Pereira,5,Excelente!,excelente,0.0,Neutro
+2023-08-31,Beatriz Costa,1,Veio com defeito,veio defeito,0.0,Neutro
+2023-08-07,Fernanda Silva,4,Chegou no prazo,chegou prazo,0.0,Neutro
+2023-01-03,Fernanda Marques,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-03-09,Juliana Lima,3,Pode melhorar,pode melhorar,0.0,Neutro
+2023-10-31,João Silva,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2023-03-04,Paulo Silva,5,Excelente!,excelente,0.0,Neutro
+2024-05-03,Juliana Pereira,5,Amei o produto,amei produto,0.0,Neutro
+2024-06-04,Carlos Almeida,1,Produto chegou quebrado,produto chegou quebrado,0.0,Neutro
+2023-03-11,João Costa,5,Excelente!,excelente,0.0,Neutro
+2023-09-10,Mateus Melo,5,Excelente!,excelente,0.0,Neutro
+2023-03-25,Fernanda Melo,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2023-11-20,Mariana Barbosa,5,Super recomendo,super recomendo,0.3333333333333333,Positivo
+2023-09-29,Fernanda Almeida,2,Atendimento fraco,atendimento fraco,0.0,Neutro
+2023-11-20,Carlos Silva,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-07-30,Carlos Souza,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2024-06-02,Mariana Almeida,2,Atendimento fraco,atendimento fraco,0.0,Neutro
+2023-09-08,Paulo Marques,1,Péssimo atendimento,péssimo atendimento,0.0,Neutro
+2024-07-10,Mariana Melo,4,Produto de qualidade,produto qualidade,0.0,Neutro
+2024-11-14,Juliana Marques,1,Produto chegou quebrado,produto chegou quebrado,0.0,Neutro
+2023-09-28,Carlos Souza,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2023-10-06,Mariana Melo,2,Produto não era como esperava,produto esperava,0.0,Neutro
+2023-07-28,Mariana Pereira,3,Entrega razoável,entrega razoável,0.0,Neutro
+2023-02-22,Carlos Costa,3,Produto ok,produto ok,0.5,Positivo
+2023-01-04,Paulo Almeida,1,Não recomendo,recomendo,0.0,Neutro
+2024-03-28,Juliana Costa,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2023-04-25,Carlos Almeida,1,Experiência horrível,experiência horrível,0.0,Neutro
+2024-01-14,Mateus Pereira,1,Péssimo atendimento,péssimo atendimento,0.0,Neutro
+2023-05-11,Ana Marques,4,Recomendo,recomendo,0.0,Neutro
+2024-01-02,João Barbosa,1,Produto chegou quebrado,produto chegou quebrado,0.0,Neutro
+2024-07-27,Fernanda Melo,3,Pode melhorar,pode melhorar,0.0,Neutro
+2023-06-16,Beatriz Costa,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2023-12-07,Fernanda Barbosa,2,Atendimento fraco,atendimento fraco,0.0,Neutro
+2024-12-19,Carlos Costa,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2023-08-16,João Lima,4,Recomendo,recomendo,0.0,Neutro
+2023-08-22,João Silva,3,Pode melhorar,pode melhorar,0.0,Neutro
+2023-12-03,Mariana Souza,4,Recomendo,recomendo,0.0,Neutro
+2024-10-18,Juliana Costa,3,Regular,regular,0.0,Neutro
+2023-01-29,Carlos Marques,3,Pode melhorar,pode melhorar,0.0,Neutro
+2023-09-29,Ana Souza,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2023-12-20,Paulo Costa,4,Produto de qualidade,produto qualidade,0.0,Neutro
+2023-04-29,Fernanda Melo,5,Amei o produto,amei produto,0.0,Neutro
+2023-02-15,Fernanda Silva,3,Regular,regular,0.0,Neutro
+2024-12-04,João Oliveira,5,Atendimento incrível,atendimento incrível,0.0,Neutro
+2024-11-11,Paulo Melo,1,Não recomendo,recomendo,0.0,Neutro
+2023-11-04,Juliana Marques,1,Veio com defeito,veio defeito,0.0,Neutro
+2024-02-17,Mariana Pereira,3,Pode melhorar,pode melhorar,0.0,Neutro
+2024-03-06,Fernanda Almeida,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2023-11-05,Fernanda Pereira,5,Excelente!,excelente,0.0,Neutro
+2023-10-21,João Costa,3,Regular,regular,0.0,Neutro
+2024-11-01,Paulo Lima,5,Atendimento incrível,atendimento incrível,0.0,Neutro
+2024-11-22,João Pereira,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-11-05,Carlos Marques,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2023-12-10,Carlos Barbosa,5,Super recomendo,super recomendo,0.3333333333333333,Positivo
+2023-07-23,Beatriz Silva,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2024-05-01,Mateus Souza,2,Faltou peças,faltou peças,0.0,Neutro
+2024-10-06,Mateus Barbosa,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-02-14,João Almeida,4,Gostei do produto,gostei produto,0.0,Neutro
+2024-03-11,João Almeida,1,Experiência horrível,experiência horrível,0.0,Neutro
+2023-02-21,Juliana Barbosa,4,Gostei do produto,gostei produto,0.0,Neutro
+2023-05-17,Rafael Pereira,4,Produto de qualidade,produto qualidade,0.0,Neutro
+2023-11-21,Rafael Melo,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2024-07-15,Rafael Almeida,4,Atendimento bom,atendimento bom,0.0,Neutro
+2023-09-23,João Marques,4,Produto de qualidade,produto qualidade,0.0,Neutro
+2024-10-03,João Marques,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-12-31,Mariana Barbosa,1,Não recomendo,recomendo,0.0,Neutro
+2023-11-24,Juliana Souza,3,Pode melhorar,pode melhorar,0.0,Neutro
+2023-08-25,Fernanda Almeida,2,Produto não era como esperava,produto esperava,0.0,Neutro
+2024-02-29,Fernanda Oliveira,1,Experiência horrível,experiência horrível,0.0,Neutro
+2024-03-01,Ana Barbosa,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-08-21,Ana Melo,4,Atendimento bom,atendimento bom,0.0,Neutro
+2023-01-07,Paulo Marques,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-07-05,Juliana Melo,4,Chegou no prazo,chegou prazo,0.0,Neutro
+2023-08-13,Mariana Costa,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-02-03,Paulo Costa,1,Péssimo atendimento,péssimo atendimento,0.0,Neutro
+2023-05-11,Mateus Pereira,4,Gostei do produto,gostei produto,0.0,Neutro
+2024-08-29,Mateus Silva,4,Gostei do produto,gostei produto,0.0,Neutro
+2023-05-19,Rafael Almeida,4,Gostei do produto,gostei produto,0.0,Neutro
+2024-01-24,Paulo Barbosa,3,Entrega razoável,entrega razoável,0.0,Neutro
+2023-12-12,Fernanda Marques,3,Entrega razoável,entrega razoável,0.0,Neutro
+2023-03-25,Rafael Silva,3,Regular,regular,0.0,Neutro
+2023-12-25,João Souza,1,Produto chegou quebrado,produto chegou quebrado,0.0,Neutro
+2023-09-11,João Silva,1,Experiência horrível,experiência horrível,0.0,Neutro
+2023-09-02,Beatriz Lima,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2023-08-12,Rafael Marques,5,Super recomendo,super recomendo,0.3333333333333333,Positivo
+2024-09-12,Mateus Souza,2,Produto não era como esperava,produto esperava,0.0,Neutro
+2023-04-21,Mateus Silva,3,Produto ok,produto ok,0.5,Positivo
+2024-11-24,Fernanda Costa,5,Amei o produto,amei produto,0.0,Neutro
+2024-08-29,João Souza,1,Não recomendo,recomendo,0.0,Neutro
+2023-05-04,Mateus Silva,5,Super recomendo,super recomendo,0.3333333333333333,Positivo
+2024-03-14,Paulo Souza,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2023-01-13,Fernanda Lima,3,Mais ou menos,menos,0.0,Neutro
+2024-01-06,Rafael Almeida,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-06-18,Mariana Melo,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2024-04-21,Fernanda Melo,4,Recomendo,recomendo,0.0,Neutro
+2023-09-09,Carlos Marques,3,Entrega razoável,entrega razoável,0.0,Neutro
+2024-04-20,Mateus Melo,2,Faltou peças,faltou peças,0.0,Neutro
+2023-01-30,Rafael Oliveira,3,Pode melhorar,pode melhorar,0.0,Neutro
+2023-08-06,Paulo Marques,4,Recomendo,recomendo,0.0,Neutro
+2024-09-02,Mariana Pereira,3,Mais ou menos,menos,0.0,Neutro
+2023-07-15,Carlos Barbosa,5,Atendimento incrível,atendimento incrível,0.0,Neutro
+2024-07-22,João Lima,4,Atendimento bom,atendimento bom,0.0,Neutro
+2023-01-18,Carlos Marques,4,Chegou no prazo,chegou prazo,0.0,Neutro
+2024-12-09,João Marques,4,Produto de qualidade,produto qualidade,0.0,Neutro
+2024-04-29,Juliana Pereira,3,Produto ok,produto ok,0.5,Positivo
+2024-07-17,Paulo Oliveira,4,Atendimento bom,atendimento bom,0.0,Neutro
+2023-11-10,Mariana Barbosa,3,Mais ou menos,menos,0.0,Neutro
+2023-11-20,Carlos Pereira,2,Produto não era como esperava,produto esperava,0.0,Neutro
+2023-08-10,Rafael Marques,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2024-09-03,Mariana Souza,5,Amei o produto,amei produto,0.0,Neutro
+2023-08-21,Paulo Almeida,3,Produto ok,produto ok,0.5,Positivo
+2024-12-26,Juliana Almeida,1,Não recomendo,recomendo,0.0,Neutro
+2023-02-25,Juliana Marques,1,Péssimo atendimento,péssimo atendimento,0.0,Neutro
+2023-04-16,Ana Melo,4,Recomendo,recomendo,0.0,Neutro
+2024-05-05,Rafael Oliveira,4,Chegou no prazo,chegou prazo,0.0,Neutro
+2023-09-16,Rafael Souza,1,Produto chegou quebrado,produto chegou quebrado,0.0,Neutro
+2024-05-18,Carlos Melo,4,Gostei do produto,gostei produto,0.0,Neutro
+2023-06-02,Mateus Marques,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2023-05-02,Juliana Costa,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2024-09-25,João Pereira,5,Atendimento incrível,atendimento incrível,0.0,Neutro
+2024-03-29,Mariana Melo,4,Atendimento bom,atendimento bom,0.0,Neutro
+2024-08-05,Mateus Silva,3,Regular,regular,0.0,Neutro
+2023-08-01,João Marques,1,Produto chegou quebrado,produto chegou quebrado,0.0,Neutro
+2023-09-03,Beatriz Pereira,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2023-01-03,Fernanda Lima,2,Problemas na entrega,problemas entrega,0.0,Neutro
+2023-10-26,Ana Barbosa,4,Recomendo,recomendo,0.0,Neutro
+2024-12-20,Rafael Souza,3,Pode melhorar,pode melhorar,0.0,Neutro
+2024-10-02,Mateus Barbosa,3,Entrega razoável,entrega razoável,0.0,Neutro
+2024-07-11,João Almeida,1,Não recomendo,recomendo,0.0,Neutro
+2023-03-15,Ana Almeida,2,Atendimento fraco,atendimento fraco,0.0,Neutro
+2024-08-05,Mariana Lima,5,Excelente!,excelente,0.0,Neutro
+2024-12-06,Mariana Costa,4,Recomendo,recomendo,0.0,Neutro
+2024-07-06,Rafael Lima,5,Excelente!,excelente,0.0,Neutro
+2023-02-10,Fernanda Oliveira,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2023-01-27,Carlos Barbosa,3,Regular,regular,0.0,Neutro
+2023-01-22,Mariana Melo,5,Excelente!,excelente,0.0,Neutro
+2024-04-26,Juliana Lima,2,Atendimento fraco,atendimento fraco,0.0,Neutro
+2024-08-22,Fernanda Lima,2,Demorou demais para chegar,demorou demais chegar,0.0,Neutro
+2023-12-23,Fernanda Oliveira,4,Recomendo,recomendo,0.0,Neutro
+2023-06-14,Paulo Costa,1,Veio com defeito,veio defeito,0.0,Neutro
+2024-11-09,Fernanda Pereira,3,Mais ou menos,menos,0.0,Neutro
+2023-04-01,Paulo Marques,4,Recomendo,recomendo,0.0,Neutro
+2024-02-18,Juliana Silva,1,Experiência horrível,experiência horrível,0.0,Neutro
+2024-02-28,Ana Barbosa,4,Produto de qualidade,produto qualidade,0.0,Neutro
+2024-09-29,Rafael Lima,3,Mais ou menos,menos,0.0,Neutro
+2023-10-01,Juliana Almeida,2,Atendimento fraco,atendimento fraco,0.0,Neutro
+2024-12-16,Rafael Souza,4,Gostei do produto,gostei produto,0.0,Neutro
+2023-09-03,Beatriz Marques,5,Entrega rápida e eficiente,entrega rápida eficiente,0.0,Neutro
+2024-07-19,Fernanda Souza,1,Péssimo atendimento,péssimo atendimento,0.0,Neutro
